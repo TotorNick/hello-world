@@ -1,3 +1,5 @@
 # hello-world
 un début
-c'est plutot de là que j'aurais dû partir, erreur d'aiguillage
+il faut un début à tout, y compris à la programmation
+c'est celui-là
+
